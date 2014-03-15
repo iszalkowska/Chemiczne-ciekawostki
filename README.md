@@ -95,3 +95,19 @@ W wytwarzaniu witaminy C na skalę przemysłową wykorzystuje się metody chemic
  4) utlenienie wolnej grupy -OH do -COOH za pomoca NaOCl
  5) usunięcie zabezpieczających grup acetalowych poprzez kwaśną hydrolizę i wewnątrzcząsteczkowa estryfikacja (zamknięcie pierścienia). W środowsku kwaśnym rzebiega ponadto tautomeryzacja keto - enolowa, prowadząca do otrzymania kwasu askorbinowego
  
+###POLITETRAFLUOROETYLEN
+![TEFLON](http://upload.wikimedia.org/wikipedia/commons/1/17/Teflon_structure.PNG)
+
+Jak wiele innych ważnych wynalazków, teflon został odkryty przypadkowo. W 1938 roku Roy Plunkett, inżynier z amerykańskiej firmy DuPont, przeprowadzał doświadczenia z substancją chłodzącą lodówki. Podczas jednego z eksperymentów dokonał syntezy politetrafluoroetylenu. Tak powstało tworzywo, które szybko znalazło zastosowanie w przemyśle… zbrojeniowym. Metalowe powierzchnie pokrywane teflonem stawały się odporne na zadrapania i korozję. Zmniejszało się także ich tarcie. Właściwości tworzywa wykorzystywano również podczas prac nad pierwszą bombą atomową.
+
+Dietetycy mówią „tak”
+
+Dopiero w połowie lat 50. XX wieku, teflon udostępniono „cywilom” i szybko dokonał rewolucji w kuchni. Także polskiej. Patelnie i naczynia pokryte teflonem znajdziemy w wielu domach. – Ich największą zaletą jest możliwość przygotowywania potraw bez dodatku tłuszczu. Ma to szczególne znaczenie dla osób, które są na diecie odchudzającej i kontrolują ilość dostarczanej organizmowi energii.
+
+Tworzywo cechuje bardzo duża odporność na działanie środków chemicznych i wysokich temperatur. Nie wchodzi w reakcje z żywnością, jest niepalne, ma również bardzo dobre właściwości ślizgowe, dzięki czemu przygotowywane potrawy nie przywierają do powierzchni patelni czy garnka.
+
+
+Groźny dla zdrowia?
+
+W ostatnich latach teflon budzi sporo kontrowersji. Nie brakuje opinii, że powłoka jest niebezpieczna dla zdrowia. 
+Doniesienia na temat szkodliwego wpływu teflonu nie są dostatecznie potwierdzone naukowo. Należy jednak zawsze upewnić się, czy kupowane przez nas naczynia posiadają atest Państwowego Zakładu Higieny, będący gwarancją jakości i bezpieczeństwa .Zdaniem wielu osób właśnie uszkodzenie teflonu może wyzwalać niebezpieczne, a nawet rakotwórcze substancje. Jednak większość specjalistów uspokaja, że materiał nie wchodzi w reakcje z potrawami.
