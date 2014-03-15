@@ -36,33 +36,28 @@ Oznaczanie stężenia alkoholu we krwi
 
  
 
-Historia leków roślinnych 
+###Historia leków roślinnych 
 
 Pierwsze zapiski o roślinach leczniczych pochodzą od starożytnych Sumerów. Odnalezione recepty kapłanów sumeryjskich mówią o takich roślinach, jak babka, lulek, rumianek, szafran, figi i koper. Sporządzano z nich proszki i nalewki, stosowano do kompresów i okładów. Z kolei na tabliczkach glinianych znalezionych w babilońskiej bibliotece królewskiej w Niniwie znalazły się opisy wielu ziół ze wskazaniem chorób, przy których je stosowano, z zaleceniami dotyczącymi ich uprawy, zbioru i przechowywania.
 
- http://www2.gazeta.pl/zdrowie/1,28075,420466.html
 
- 
 
-Aspiryna - ODKRYCIE FELIKSA HOFFMANNA 
+##Aspiryna - ODKRYCIE FELIKSA HOFFMANNA 
 
 Ostatnie słowo należało do chemika z firmy Bayer, doktora Feliksa Hoffmanna, który "oczyścił" kwas salicylowy przez jego acetylację, umożliwiając produkcję kwasu acetylosalicylowego w czystej i trwałej formie. W stosunkowo krótkim czasie Aspirin® stała się najlepiej znanym środkiem przeciwbólowym na świecie.
 
-http://www.zdrowie.med.pl/aspiryna/aspiryna_3.html
 
- 
 
-Sulfonamidy
+ ##Sulfonamidy
 
 Sulfonamidy, RSO2NH2, RSO2NHR’, RSO2NR’R’’ (gdzie R, R’, R’’ - grupy arylowe lub alkilowe), sulfamidy, amidy kwasów sulfonowych, kryształy trudno rozpuszczalne w wodzie. Powstają w reakcji chlorków kwasowych lub estrów kwasów sulfonowych z amoniakiem albo pierwszo- lub drugorzędowymi aminami.
 
 Duże znaczenie w lecznictwie mają sulfonamidy, w których grupę R stanowi układ aromatyczny NH2C6H5-, ponieważ hamują one syntezę kwasu foliowego. Wiele sulfonamidów służy jako leki (np.: sulfaguanidyna, sulfacetamid, sulfanilamid, sulfametazyna, sukcynylosulfatiazol), znajdują ponadto zastosowanie w analizie organicznej.
 
-http://wiem.onet.pl/wiem/009db3.html
 
- 
 
-Wady i zalety
+
+##Wady i zalety
 
 Thalidomid pojawił się na rynku europejskim w 1957 roku i do czasu, kiedy został wycofany z obrotu w grudniu 1961 r., był dostępny, w co najmniej 46 krajach. Reklamowano go jako "cudowny lek" zapewniający "bezpieczny, głęboki sen". Szczególnie chętnie przepisywano go ciężarnym, ponieważ łagodził częste w pierwszych miesiącach ciąży poranne nudności. Po kilku latach okazało się jednak, że preparat był niedostatecznie przebadany. U części zażywających go kobiet dochodziło do uszkodzenia nerwów obwodowych objawiającego się uczuciem mrowienia, pieczenia lub zaburzeniami czucia w kończynach. Najgorsze było jednak działanie leku na płód. Wystarczyłoby kobieta w początkowym okresie ciąży zażyła kilka tabletek, by dzieci rodziły się głuche, ślepe, z rozszczepem podniebienia albo poważnymi defektami kończyn. Co gorsze, okazało się, że thalidomid może też uszkadzać DNA i szkodzić kolejnym pokoleniom. Wśród 380 dzieci, które urodziły ofiary thalidomidu, odsetek deformacji kończyn był pięciokrotnie wyższy niż w populacji ogólnej.
 
@@ -70,11 +65,11 @@ Lek wycofano. Firmy wytwarzające i sprzedające leki zawierające thalidomid je
 
 Badając feralny preparat, naukowcy stwierdzili, że występuje on w dwóch odmianach chiralnych, z których jedna jest jakby lustrzanym odbiciem drugiej. U zwierząt szkodliwa była tylko jedna - prawoskrętna - postać. Lewoskrętny izomer był skutecznym lekiem uspokajającym. Niestety, okazuje się, że nawet, gdy uczonym udało się wyprodukować tylko lewoskrętny thalidomid, odczyn krwi sprawiał, że w organizmie zmieniał się on w "trującą" formę prawoskrętną i nadal siał zniszczenie. Dziś nadal stosuje się thalidomid - okazało się, że jest bardzo skuteczny w leczeniu niektórych nowotworów.
 
-http://www1.gazeta.pl/nauka/1,34158,471125.html
+
 
  
 
-Taksol  
+##Taksol  
 
 (nazwa chemiczna: paklitaksel) - związek chemiczny otrzymywany z kory cisu (Taxus brevifolia) - jest jednym z leków stosowanych w chemioterapii nowotworów złośliwych, zwłaszcza raka sutka i jajnika. Amerykańscy naukowcy odkryli, w jaki sposób taksol zabija komórki nowotworowe. 
 
