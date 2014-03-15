@@ -77,7 +77,7 @@ Od dawna wiadomo, że taksol niszczy prawidłową strukturę szkieletu komórki.
 Teraz wiemy, że oprócz niszczenia cytoszkieletu taksol działa na komórki również w inny sposób. Cząsteczki taksolu łączą się z białkiem Bcl-2, czemu towarzyszy zmiana kształtu tego białka. Białko Bcl-2 uczestniczy w procesie apoptozy (genetycznie zaprogramowanej śmierci komórki): zwiększenie ilości tego białka jest dla komórki sygnałem przeżycia, a "wyłączenie" białka Bcl-2 zwiększa prawdopodobieństwo samobójczej śmierci komórki (patrz: Klucz do mitochondriów). Najprawdopodobniej taksol zmniejsza aktywność białka Bcl-2, co - w połączeniu z uszkodzeniami materiału genetycznego - stanowi dla komórek rakowych sygnał do popełnienia samobójstwa na drodze apoptozy. 
 
 ###WITAMINA C
-![WITC}(http://upload.wikimedia.org/wikipedia/commons/d/da/L-ascorbic-acid-3D-balls.png)
+![WITC](http://upload.wikimedia.org/wikipedia/commons/d/da/L-ascorbic-acid-3D-balls.png)
 Witamina C (kwas askorbinowy) jest jedną z najlepiej znanych witamin. Zidentyfikowano ją w roku 1928, a pięć lat później udało się ustalić jej strukturę i zsyntezować w laboratorium. 
  Rocznie wytwarza się ok. 40 tys. ton witaminy C, tj. więcej niż wszystkich innych razem wziętych. Bierze się to z faktu, iż witamina C ma także pozamedyczne zastosowania: jako dodatek do konserwacji żywności, w piekarnictwie i jako dodatek do pasz dla zwierząt. 
  Główne zastosowanie w medycynie to przeciwdziałanie szkorbutowi. Choroba objawia się krwawieniami, a zapadają na nią ludzie, których diety ubogie są w świeże warzywa i owoce cytrusowe. Szczególnie narażeni na tę przypadłość byli średniowieczni żeglarze: strawiła ona ponad połowę załogi Vasco da Gama w trakcie wyprawy wokół Przylądka Dobrej Nadziei (1497 - 99).
