@@ -30,12 +30,10 @@ Oznaczanie stężenia alkoholu we krwi
  W oznaczeniu tym wykorzystuje się łatwość przechodzenia etanolu przez błony płucne, jednolite rozprowadzanie po organizmie i zdolnośc doutleniania.
  Przy pomocy alkomatów mierzy się zawartośc alkoholu w wydychanym powietrzu. Wykorzystuje się zmianę barwy wskaźnika: etanol redukuje pomarańczowy dichromian (VII) potasu do niebieskozielonego związku chromu (III) 
  
- Chemia w medycynie
+ 
+##CHEMIA w sużbie medycyny
 
  
-
- 
-
 ###Historia leków roślinnych 
 
 Pierwsze zapiski o roślinach leczniczych pochodzą od starożytnych Sumerów. Odnalezione recepty kapłanów sumeryjskich mówią o takich roślinach, jak babka, lulek, rumianek, szafran, figi i koper. Sporządzano z nich proszki i nalewki, stosowano do kompresów i okładów. Z kolei na tabliczkach glinianych znalezionych w babilońskiej bibliotece królewskiej w Niniwie znalazły się opisy wielu ziół ze wskazaniem chorób, przy których je stosowano, z zaleceniami dotyczącymi ich uprawy, zbioru i przechowywania.
@@ -43,6 +41,7 @@ Pierwsze zapiski o roślinach leczniczych pochodzą od starożytnych Sumerów. O
 
 
 ##Aspiryna - ODKRYCIE FELIKSA HOFFMANNA 
+![ASPIRYNA](http://upload.wikimedia.org/wikipedia/commons/d/dc/Aspirin-3D-vdW.png)
 
 Ostatnie słowo należało do chemika z firmy Bayer, doktora Feliksa Hoffmanna, który "oczyścił" kwas salicylowy przez jego acetylację, umożliwiając produkcję kwasu acetylosalicylowego w czystej i trwałej formie. W stosunkowo krótkim czasie Aspirin® stała się najlepiej znanym środkiem przeciwbólowym na świecie.
 
