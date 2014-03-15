@@ -48,7 +48,7 @@ Ostatnie słowo należało do chemika z firmy Bayer, doktora Feliksa Hoffmanna, 
 
 
 
- ##Sulfonamidy
+##Sulfonamidy
 
 Sulfonamidy, RSO2NH2, RSO2NHR’, RSO2NR’R’’ (gdzie R, R’, R’’ - grupy arylowe lub alkilowe), sulfamidy, amidy kwasów sulfonowych, kryształy trudno rozpuszczalne w wodzie. Powstają w reakcji chlorków kwasowych lub estrów kwasów sulfonowych z amoniakiem albo pierwszo- lub drugorzędowymi aminami.
 
